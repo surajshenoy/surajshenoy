@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @surajshenoy
-- 👀 I’m not interested in anything
-- 🌱 I’m currently learning wake up early
-- 📫 Do not reach me ...
+- 4 years of experience in IT industry
+- Technical Consultant for DevOps
+- 
 
 <!---
 surajshenoy/surajshenoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
