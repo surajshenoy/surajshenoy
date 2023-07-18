@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @surajshenoy
-- 4 years of experience in IT industry
 - Technical Consultant for DevOps
 
 
